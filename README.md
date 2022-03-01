@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Athiban-32
 - 👀 I’m interested in Cloud computing 
 - 🌱 I’m currently learning Front End
-- 💞️ I’m looking to collaborate on more persons
+- 💞️ I’m looking to collaborate on Artificial Intelligence 
 - 📫 How to reach me athiban.p2015@gmail.com 
 - My Youtube Channel-https://www.youtube.com/channel/UCdDTr1MqIpeDXbolsHJ8hlw/about
 
