@@ -1,4 +1,5 @@
-- 👋 <h1 align="center">Hi , I'm @Athiban-32 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+- 👋 <h1 align="center">Hi , I'm @Athiban <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+- 👋 Hii I'm Athiban-32
 - 👀 I’m interested in Cloud computing 
 - 🌱 I’m currently learning Machine Learning and Frontend
 - 💞️ I’m looking to collaborate on Artificial Intelligence 
