@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athiban-32&label=Profile%20views&color=0e75b6&style=flat" alt="athiban-32" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athiban-32" alt="athiban-32" /></a> </p>
+- <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -12,7 +13,6 @@
 - 💬 Ask me about **Android App Developement**
 
 - 📫 How to reach me **athiban.p2015@gmail.com**
-- <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
