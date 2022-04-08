@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
+- 👀 I’m interested in **Cloud computing**
+
 - 👯 I’m looking to collaborate on **on Artificial Intelligence**
 
 - 💬 Ask me about **Android App Developement**
