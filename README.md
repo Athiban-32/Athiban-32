@@ -26,6 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athiban-32&show_icons=true&locale=en&layout=compact" alt="athiban-32" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athiban-32&show_icons=true&locale=en" alt="athiban-32" /></p>
-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Athiban-32&show_icons=true"/>
 - <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 - <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
