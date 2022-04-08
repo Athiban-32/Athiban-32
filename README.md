@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in **Cloud computing**
 
-- 👯 I’m looking to collaborate on **on Artificial Intelligence**
+- 👯 I’m looking to collaborate **on Artificial Intelligence**
 
 - 💬 Ask me about **Android App Developement**
 
