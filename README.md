@@ -29,7 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athiban-32&show_icons=true&locale=en&layout=compact" alt="athiban-32" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athiban-32&show_icons=true&locale=en" alt="athiban-32" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=athiban-32&show_icons=true&locale=en&layout=compact" alt="athiban-32" /></p>
 
 
 
