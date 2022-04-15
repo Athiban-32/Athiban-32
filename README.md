@@ -18,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <a href="https://stackoverflow.com/users/Athiban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Athiban" height="30" width="40" /></a>
 <a href="https://instagram.com/athiban_32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="athiban-32" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCdDTr1MqIpeDXbolsHJ8hlw/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xcode emulators" height="30" width="40" /></a>
